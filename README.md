@@ -7,7 +7,7 @@ I'm a graduate 🎓 @uninassau_ with a specialization in Systems Analysis and De
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lazhcsilva&show_icons=true&theme=dracula" width="500" height="300" style="margin-right: 20px;"/>
   <a href="https://github.com/lazhcsilva/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazhcsilva"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazhcsilva&theme=dracula"/>
   </a>
 </div>
 
@@ -15,9 +15,9 @@ I'm a graduate 🎓 @uninassau_ with a specialization in Systems Analysis and De
 <div style="display: inline_block">
   <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img align="center" alt="Terminal" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
+  <img align="center" alt="Intellij" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
   <img align="center" alt="Browser" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />
   <img align="center" alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-  <img align="center" alt="Intellij" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
   <img align="center" alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
 </div>
 
