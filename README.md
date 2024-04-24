@@ -1,20 +1,22 @@
-## Hello there 👋 I'm Lázaro! 
+## Hello there 👋 I'm Lázaro :vulcan_salute:
 ### A little about me... 
 I'm a graduate 🎓 @uninassau_ with a specialization in Systems Analysis and Development. I'm a Tech Enthusiast 💻 😃 passionate about learning and working with new tech. I love building interesting and amazing products that serve a great purpose.<br/>
 
 ### 📊  Stats
 
-<div style="display: inline_block">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=lazhcsilva&show_icons=true&theme=bear" width="400">
-  </p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lazhcsilva&show_icons=true&theme=dracula" width="500" height="300" style="margin-right: 20px;"/>
+  <a href="https://github.com/lazhcsilva/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazhcsilva"/>
+  </a>
 </div>
 
 ### 🖥️ My DevSetup
 <div style="display: inline_block">
   <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img align="center" alt="Terminal" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
+  <img align="center" alt="Browser" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />
+  <img align="center" alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
   <img align="center" alt="Intellij" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
   <img align="center" alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
 </div>
