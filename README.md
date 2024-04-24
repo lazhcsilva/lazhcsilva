@@ -1,4 +1,10 @@
 ### Hi there 👋
+# Welcome to Lázaro Henrique Silva's Repository
+
+Hello, I'm Lázaro Henrique Silva, and this is my personal and professional repository where I share my projects. I hope you enjoy your stay and come back often.
+
+Don't worry, you're not being tracked, but feel free to contribute and get in touch so we can work together on a project.
+
 
 <!--
 **lazhcsilva/lazhcsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
